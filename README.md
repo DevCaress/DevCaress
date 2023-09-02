@@ -1,4 +1,4 @@
-### Him i am Caress 👋
+### Hi!! I'm Caress 👋
 
 ### I have a course platform [nogara.dev](https://nogara.dev/courses/)
 
