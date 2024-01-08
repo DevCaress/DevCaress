@@ -1,14 +1,45 @@
 ### Hi!! I'm Caress 👋
 
-### I have a course platform [nogara.dev](https://nogara.dev/courses/)
+### I'm a Web Developer with 6+ years of experience
 
-<a href="https://nogara.dev/courses/curso-de-css-3-2022/" target="_blank">
+### I created two technical interview guides
+- [Guía para entrevistas tecnicas como Ingeniero de software](github.com/DevCaress/guia-entrevistas-de-programacion)
+- [Todo acerda de Javascript](https://github.com/DevCaress/todo-acerca-de-js)
+
+
+
+
+### I have 3 courses on Youtube
+
+
+<a href="https://www.youtube.com/watch?v=RtudmQ5rLCg&list=PLxvYdwV3tpkCwPcMyQslsXWFsVfY7P584" target="_blank" style="text-decoration:none;">
+    <img src="src/curso-basico.png" width="300px">
+</a>
+
+<a href="https://www.youtube.com/watch?v=0fYU1OQ6cFQ&list=PLxvYdwV3tpkBQV12YWdpoOhftjzdkJwSk" target="_blank">
     <img src="src/css.png">
 </a>
 
-<a href="https://nogara.dev/courses/curso-de-html-5-2022/" target="_blank">
+<a href="https://www.youtube.com/watch?v=9VSrAjgtOlU&list=PLxvYdwV3tpkDPMjMZT7GEoqvO3zo3i3wu" target="_blank">
     <img src="src/html.png">
 </a>
+
+### I also create content on social networks about programming, trends, new technologies, etc, etc...
+<a href="https://www.instagram.com/devcaress" target="_blank">
+    <img src="src/instagram.png" width="40px" height="40px">
+</a>
+<a href="https://tiktok.com/@devcaress" target="_blank">
+    <img src="src/tiktok.png" width="40px" height="40px">
+</a>
+
+<a href="https://linkedin.com/in/daniel-enriquez-lucas/" target="_blank">
+    <img src="src/linkedin.png" width="40px" height="40px">
+</a>
+
+<a href="https://twitter.com/DevCaress" target="_blank">
+    <img src="src/twitter.png" width="40px" height="40px">
+</a>
+
 
 ### Languages and Tools
 
