@@ -3,7 +3,7 @@
 ### I'm a Web Developer with 6+ years of experience
 
 ### I created two technical interview guides
-- [Guía para entrevistas tecnicas como Ingeniero de software](github.com/DevCaress/guia-entrevistas-de-programacion)
+- [Guía para entrevistas tecnicas como Ingeniero de software](https://github.com/DevCaress/guia-entrevistas-de-programacion)
 - [Todo acerda de Javascript](https://github.com/DevCaress/todo-acerca-de-js)
 
 
