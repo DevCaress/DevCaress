@@ -1,15 +1,15 @@
 ### Hi!! I'm Caress 👋
 
-### I'm a Web Developer with 6+ years of experience
+### I'm a Web Developer with 7+ years of experience
 
 ### I created two technical interview guides
-- [Guía para entrevistas tecnicas como Ingeniero de software](https://github.com/DevCaress/guia-entrevistas-de-programacion)
-- [Todo acerda de Javascript](https://github.com/DevCaress/todo-acerca-de-js)
+[![guia-entrevistas-de-programacion](https://github-readme-stats.vercel.app/api/pin/?username=DevCaress&repo=guia-entrevistas-de-programacion)](https://github.com/DevCaress/guia-entrevistas-de-programacion)
+[![guia-entrevistas-de-programacion](https://github-readme-stats.vercel.app/api/pin/?username=DevCaress&repo=todo-acerca-de-js)](https://github.com/DevCaress/todo-acerca-de-js)
 
 
 
 
-### I have 3 courses on Youtube
+### I made 3 courses on Youtube
 
 
 <a href="https://www.youtube.com/watch?v=RtudmQ5rLCg&list=PLxvYdwV3tpkCwPcMyQslsXWFsVfY7P584" target="_blank" style="text-decoration:none;">
