@@ -4,7 +4,7 @@
 
 ### I created two technical interview guides
 [![guia-entrevistas-de-programacion](https://github-readme-stats.vercel.app/api/pin/?username=DevCaress&repo=guia-entrevistas-de-programacion)](https://github.com/DevCaress/guia-entrevistas-de-programacion)
-[![guia-entrevistas-de-programacion](https://github-readme-stats.vercel.app/api/pin/?username=DevCaress&repo=todo-acerca-de-js)](https://github.com/DevCaress/todo-acerca-de-js)
+[![todo-acerca-de-js](https://github-readme-stats.vercel.app/api/pin/?username=DevCaress&repo=todo-acerca-de-js)](https://github.com/DevCaress/todo-acerca-de-js)
 
 
 
